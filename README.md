@@ -9,4 +9,4 @@ In the project directory, you can run:
 https://react-redux-songs.now.sh/
 
 ### `App Steps`
-1) Set up boilerplate (index & App), and installed redux and react-redux. We are going to let Redux handle the state side of things, so made App a simple functional component.
+1) Set up boilerplate (index & App), installed redux and react-redux, added Semantic-UI CDN for CSS. We are going to let Redux handle the state side of things, so made App a simple functional component.
