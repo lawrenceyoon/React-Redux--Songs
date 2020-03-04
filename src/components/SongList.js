@@ -33,7 +33,6 @@ const SongList = (props) => {
 };
 
 const mapStateToProps = (state) => { // state gets ALL state data from redux store
-  console.log(state);
   return ({ songs: state.songs });
 };
 
